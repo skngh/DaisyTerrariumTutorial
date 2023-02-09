@@ -8,6 +8,8 @@
 
 - **TerrariumMultiEffect:** A multi effect pedal for the TerrariumPCB that I wrote. Featuring a delay, flanger, bitcrusher, and distortion.
 
+- **terrarium.h:** This is the header file to make programming the correct analog inputs on the TerrariumPCB easier.
+
 Details on how to use each script can be found in their respective readme files.
 
 ### Note:
