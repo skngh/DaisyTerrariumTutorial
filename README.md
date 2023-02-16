@@ -18,4 +18,4 @@ The included folders must be put in the DaisyExamples folder to work. You may ha
 
 <br>
 
-*If you're having any problems or notice any errors in the code, then feel free to email me at sknight3637@gmail.com.*
+*If you're having any problems or notice any errors in the code, then feel free to email me at imsamknight@gmail.com.*
